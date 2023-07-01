@@ -1,0 +1,1 @@
+# Binary-Classification-using-K-Nearest-Neighbors--KNN--Model-for-Salary-Prediction
